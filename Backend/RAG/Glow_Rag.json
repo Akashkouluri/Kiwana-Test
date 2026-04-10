@@ -1,0 +1,187 @@
+{
+    "product_rag_file": {
+        "meta": {
+            "version": "1.0",
+            "created": "2026-04-09",
+            "format": "Skincare Product RAG File"
+        },
+        "basic_identity": {
+            "product_name": "GlowBoost Brightening Serum",
+            "brand_name": "Kiwana",
+            "product_type": "Serum",
+            "product_line_range": "Glow Series",
+            "sku_product_code": "LM-GBSER-30",
+            "barcode_ean": "8901234567890",
+            "shade_variant": "Universal (single variant)",
+            "net_volume_weight": "30ml / 1 fl.oz",
+            "skin_type_suitability": "All skin types, including sensitive skin"
+        },
+        "description": {
+            "overview": "A lightweight, fast-absorbing brightening serum formulated with 10% Niacinamide and 2% Alpha Arbutin to visibly reduce dark spots, even skin tone, and minimize the appearance of pores.",
+            "purpose": "Targets hyperpigmentation, uneven skin tone, enlarged pores, and dullness with clinically proven actives.",
+            "target_audience": "Adults 18+ with concerns of dullness, dark spots, oily skin, or uneven complexion. Safe for sensitive skin.",
+            "texture_finish": "Water-like lightweight serum, absorbs within 30 seconds, leaves no residue or greasy feel.",
+            "ph_level": "pH 5.5 – 6.5"
+        },
+        "ingredients": {
+            "key_active_ingredients": [
+                {
+                    "name": "Niacinamide (Vitamin B3)",
+                    "concentration": "10%",
+                    "function": "Reduces hyperpigmentation, tightens pores, regulates sebum production, strengthens skin barrier"
+                },
+                {
+                    "name": "Alpha Arbutin",
+                    "concentration": "2%",
+                    "function": "Inhibits melanin synthesis for a brighter, more even skin tone; reduces dark spots"
+                },
+                {
+                    "name": "Hyaluronic Acid (Sodium Hyaluronate)",
+                    "concentration": "1.5%",
+                    "function": "Multi-depth hydration, plumps skin and reduces appearance of fine lines"
+                },
+                {
+                    "name": "Panthenol (Vitamin B5)",
+                    "concentration": "1%",
+                    "function": "Soothes irritation, repairs and strengthens skin barrier, retains moisture"
+                },
+                {
+                    "name": "Zinc PCA",
+                    "concentration": "0.1%",
+                    "function": "Controls excess shine, reduces blemishes, has mild antimicrobial properties"
+                }
+            ],
+            "full_inci_list": "Aqua, Niacinamide, Sodium Hyaluronate, Alpha-Arbutin, Glycerin, Pentylene Glycol, Panthenol, Zinc PCA, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Hydroxide, Disodium EDTA, Phenoxyethanol, Ethylhexylglycerin",
+            "free_from_claims": [
+                "Paraben-free",
+                "Fragrance-free",
+                "Alcohol-free",
+                "Sulfate-free",
+                "Silicone-free",
+                "Mineral oil-free",
+                "PEG-free",
+                "Dye-free",
+                "Essential oil-free"
+            ],
+            "certifications_badges": [
+                "Dermatologist tested and approved",
+                "Cruelty-free (Leaping Bunny certified)",
+                "Vegan Society certified",
+                "COSMOS Certified",
+                "Made Safe certified",
+                "Non-comedogenic",
+                "Hypoallergenic tested"
+            ],
+            "allergen_information": "Free from all 26 EU-listed fragrance allergens. No nut-derived ingredients. No common contact allergens. Always perform a patch test before first use."
+        },
+        "manufacturing_regulatory": {
+            "manufactured_by": "LuminaSkin Laboratories Pvt. Ltd., 45 Industrial Phase II, Gurugram, Haryana 122016, India",
+            "manufactured_for_distributed_by": "LuminaSkin Retail Brand, Mumbai, India",
+            "country_of_origin": "South Korea (formulated and manufactured)",
+            "manufacturing_facility": "GMP-certified facility, ISO 22716:2007 compliant, CGMP audited annually",
+            "regulatory_certifications": "KFD registered (South Korea), FDA Registered (USA – Reg. No. 12345678), BIS certified (India – IS 6608), CPNP notified (EU)",
+            "manufacturing_date_format": "MFG: MM/YYYY — printed on outer carton and embossed on bottle base",
+            "expiry_date_format": "EXP: MM/YYYY — printed on outer carton and embossed on bottle base",
+            "period_after_opening_pao": "24M — use within 24 months of first opening (PAO symbol on packaging)",
+            "shelf_life_unopened": "3 years (36 months) from manufacturing date when stored correctly",
+            "batch_lot_number_location": "6-digit alphanumeric code embossed on base of glass bottle (e.g., 230415 = manufactured April 2023)"
+        },
+        "usage_storage_safety": {
+            "how_to_use_steps": [
+                "Step 1: Cleanse face thoroughly and pat dry.",
+                "Step 2: Apply toner if part of routine (optional).",
+                "Step 3: Dispense 3–4 drops of serum onto fingertips.",
+                "Step 4: Gently press and pat the serum into face and neck — do not rub.",
+                "Step 5: Wait 60 seconds for full absorption.",
+                "Step 6 (Morning): Follow with moisturizer, then SPF 30 or higher.",
+                "Step 6 (Evening): Follow with moisturizer or night cream.",
+                "Can be layered under eye cream. Apply before heavier creams or oils."
+            ],
+            "application_frequency": "Twice daily — morning (AM) and evening (PM). Can be reduced to once daily for first 2 weeks if new to Niacinamide.",
+            "storage_instructions": "Store below 25°C (77°F). Keep away from direct sunlight, heat, and humidity. Do not freeze. Keep cap tightly closed after each use. Do not store in bathroom if humid.",
+            "packaging_material": "30ml amber glass dropper bottle with borosilicate glass pipette. Outer carton made from FSC-certified 100% recycled cardboard. Printed with soy-based inks. Fully recyclable.",
+            "warnings_contraindications": [
+                "For external use only.",
+                "Avoid direct contact with eyes — if contact occurs, rinse thoroughly with clean water.",
+                "Conduct a 24-hour patch test on inner arm before first facial use.",
+                "Discontinue use immediately if redness, burning, stinging, or irritation occurs.",
+                "Keep out of reach of children under 12 years.",
+                "Not recommended for children under 12.",
+                "Consult a dermatologist before use if pregnant, breastfeeding, or undergoing medical skin treatment.",
+                "Do not use on open wounds, broken skin, or active eczema/psoriasis flare-ups."
+            ],
+            "drug_ingredient_interactions": "Avoid combining with high-concentration Vitamin C (L-Ascorbic Acid) in the same routine — may form niacin and cause temporary flushing. Use Vitamin C in AM and this serum in PM if both are in routine. Consult dermatologist if using prescription retinoids, hydroquinone, or topical antibiotics.",
+            "sun_sensitivity_note": "No photosensitizing ingredients present. However, SPF 30+ is strongly recommended during daytime use for optimal brightening results and to prevent new dark spot formation."
+        },
+        "claims_benefits": {
+            "skin_concerns_targeted": [
+                "Hyperpigmentation and dark spots",
+                "Uneven skin tone and discoloration",
+                "Dullness and lack of radiance",
+                "Enlarged / visible pores",
+                "Dehydration and dryness",
+                "Excess oil / shine",
+                "Mild acne marks and post-inflammatory hyperpigmentation (PIH)",
+                "Early fine lines due to dehydration"
+            ],
+            "clinical_tested_claims": "Dermatologist tested and approved. In an independent 4-week consumer study (n=52, ages 22–45, mixed skin types): 94% reported improved skin radiance, 88% saw visibly reduced dark spots, 91% noticed smaller-looking pores, 96% reported improved hydration, 89% said skin felt smoother. Non-comedogenic tested. Hypoallergenic tested. Ophthalmologist reviewed formula.",
+            "visible_results_timeline": {
+                "immediate": "Improved skin hydration and softness within 1–2 hours of first use.",
+                "2_weeks": "Visibly minimized pore appearance, reduced shine, more balanced skin texture.",
+                "4_6_weeks": "Noticeably brighter, more even skin tone; reduced appearance of dullness.",
+                "8_12_weeks": "Significant reduction in dark spots and hyperpigmentation with consistent twice-daily use."
+            },
+            "awards_recognition": [
+                "Nykaa Best Brightening Serum Award 2023",
+                "Cosmopolitan India Editor's Pick — Best Budget Serum 2024",
+                "BeautyMatter Top 50 Indie Skincare Brands 2024",
+                "5-star rating: 4.8/5 from 12,000+ verified reviews on Nykaa and Amazon"
+            ]
+        },
+        "sustainability_ethics": {
+            "cruelty_free_status": "Yes — certified cruelty-free by Leaping Bunny (CCF). Never tested on animals at any stage of production. No animal testing by third-party suppliers.",
+            "vegan_status": "Fully vegan — certified by The Vegan Society. Contains no animal-derived or animal by-product ingredients.",
+            "packaging_recyclability": "Amber glass bottle: 100% recyclable (remove dropper before recycling). Outer carton: 100% recycled and recyclable cardboard. No plastic shrink wrap. Minimal packaging philosophy.",
+            "sustainability_commitments": "Carbon-neutral shipping on all orders. Refillable bottle program launching Q2 2025 (30% discount on refill pouches). 1% of annual revenue donated to ocean plastic cleanup via 1% for the Planet. Manufacturing facility runs on 60% renewable energy."
+        },
+        "pricing_availability": {
+            "mrp_price": {
+                "INR": "₹1,499",
+                "USD": "$17.99",
+                "GBP": "£14.99",
+                "AED": "AED 65",
+                "SGD": "SGD 25",
+                "AUD": "AUD 27"
+            },
+            "launch_date": "January 2023",
+            "available_in_countries": [
+                "India",
+                "United States",
+                "United Kingdom",
+                "UAE",
+                "Singapore",
+                "Australia",
+                "Canada",
+                "Germany",
+                "France"
+            ],
+            "where_to_buy": [
+                "Official website: luminaskin.com",
+                "Amazon India, Amazon US, Amazon UK",
+                "Nykaa (India)",
+                "Sephora (UAE, Singapore)",
+                "Cult Beauty (UK)",
+                "Lookfantastic (EU)",
+                "Myntra (India)",
+                "SUGAR Pop (India)"
+            ],
+            "customer_support": {
+                "email": "support@luminaskin.com",
+                "phone": "1800-123-4567 (India, toll-free)",
+                "hours": "Monday to Saturday, 9:00 AM – 6:00 PM IST",
+                "response_time": "Email replies within 24 hours on business days",
+                "returns_policy": "30-day no-questions-asked return policy for unopened products"
+            }
+        }
+    }
+}

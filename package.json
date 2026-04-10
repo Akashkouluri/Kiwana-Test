@@ -1,0 +1,9 @@
+{
+  "name": "kiwana-monorepo-proxy",
+  "version": "1.0.0",
+  "description": "Root proxy to gracefully handle Render build pipelines",
+  "scripts": {
+    "build": "npm install --prefix Frontend && npm run build --prefix Frontend && pip install -r requirements.txt",
+    "start": "uvicorn Backend.API.backend_api:app --host 0.0.0.0 --port $PORT"
+  }
+}

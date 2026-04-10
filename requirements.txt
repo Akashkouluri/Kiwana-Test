@@ -1,0 +1,14 @@
+openai
+python-dotenv
+fastapi
+uvicorn
+pydantic-ai 
+python-multipart
+langchain
+langgraph
+langchain-openai
+langchain-community
+pypdf
+pinecone
+tiktoken
+sqlalchemy
